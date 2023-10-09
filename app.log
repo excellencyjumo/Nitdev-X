@@ -1,0 +1,71 @@
+info: This is an info message.
+warn: This is a warning message.
+error: This is an error message.
+info: This is an info message.
+warn: This is a warning message.
+error: This is an error message.
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:47:56.739Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:29.055Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:34.902Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:41.214Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:42.963Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:51.517Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:53.068Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:58.357Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:50:59.735Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:01.104Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:02.902Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:09.783Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:10.832Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:12.569Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:21.673Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:37.743Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:51:42.932Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:52:17.633Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T01:53:09.200Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T01:53:40.832Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T01:57:33.924Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:25:41.532Z"}
+info: GET /forgot-password {"timestamp":"2023-10-09T12:31:44.885Z"}
+warn: Route not found: GET /forgot-password {"timestamp":"2023-10-09T12:31:44.885Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T12:31:48.958Z"}
+error: Error in /forgot-password: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l34-20020a05600c1d2200b003fef5e76f2csm6662399wms.0 - gsmtp {"timestamp":"2023-10-09T12:31:50.323Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:32:12.640Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:32:55.533Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T12:32:58.400Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NDc3OCwiZXhwIjoxNjk2ODU0ODA4fQ.h45gDVUU6f9PHsgGJ2xK0oDGEk7PvWW_fi7_nVag_DU {"timestamp":"2023-10-09T12:34:02.764Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:34:02.768Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T12:34:13.191Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NDg1MywiZXhwIjoxNjk2ODU0ODgzfQ.eyq2qF4QY6fUOIgQLclLCMN5k2xo0b6DCuTtE-wXTKg {"timestamp":"2023-10-09T12:34:38.635Z"}
+warn: User not found for email: excellencejumo@gmail.com {"timestamp":"2023-10-09T12:34:38.637Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NDg1MywiZXhwIjoxNjk2ODU0ODgzfQ.eyq2qF4QY6fUOIgQLclLCMN5k2xo0b6DCuTtE-wXTKg {"timestamp":"2023-10-09T12:35:19.550Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:35:19.553Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:36:14.657Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T12:36:33.064Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NDk5MywiZXhwIjoxNjk2ODU1MDIzfQ.JTQ7Mzdibe-oobYNumHjfoMmox_mltLtea0hx35pY_8 {"timestamp":"2023-10-09T12:37:05.359Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:37:05.363Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NDk5MywiZXhwIjoxNjk2ODU1MDIzfQ.JTQ7Mzdibe-oobYNumHjfoMmox_mltLtea0hx35pY_8 {"timestamp":"2023-10-09T12:37:07.752Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:37:07.755Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:37:29.319Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T12:37:41.520Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NTA2MSwiZXhwIjoxNjk2ODU1MzYxfQ.csHSphxsHxugJiTEYl33FiaXflQfz1WeLMugmXSB8wc {"timestamp":"2023-10-09T12:38:07.784Z"}
+info: Password reset for user: excellencejumo@gmail.com {"timestamp":"2023-10-09T12:38:07.789Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NTA2MSwiZXhwIjoxNjk2ODU1MzYxfQ.csHSphxsHxugJiTEYl33FiaXflQfz1WeLMugmXSB8wc {"timestamp":"2023-10-09T12:40:31.873Z"}
+info: Password reset for user: excellencejumo@gmail.com {"timestamp":"2023-10-09T12:40:31.877Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NTA2MSwiZXhwIjoxNjk2ODU1MzYxfQ.csHSphxsHxugJiTEYl33FiaXflQfz1WeLMugmXSB8wc {"timestamp":"2023-10-09T12:40:38.943Z"}
+info: Password reset for user: excellencejumo@gmail.com {"timestamp":"2023-10-09T12:40:38.946Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:41:47.699Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:41:52.638Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:41:55.987Z"}
+info: Server running on PORT 8080 {"timestamp":"2023-10-09T12:42:13.046Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NTA2MSwiZXhwIjoxNjk2ODU1MzYxfQ.csHSphxsHxugJiTEYl33FiaXflQfz1WeLMugmXSB8wc {"timestamp":"2023-10-09T12:43:13.363Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:43:13.373Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T12:47:52.938Z"}
+info: POST /forgot-password {"timestamp":"2023-10-09T12:48:26.102Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NTA2MSwiZXhwIjoxNjk2ODU1MzYxfQ.csHSphxsHxugJiTEYl33FiaXflQfz1WeLMugmXSB8wc {"timestamp":"2023-10-09T12:53:23.904Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:53:23.909Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NTA2MSwiZXhwIjoxNjk2ODU1MzYxfQ.csHSphxsHxugJiTEYl33FiaXflQfz1WeLMugmXSB8wc {"timestamp":"2023-10-09T12:54:36.734Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:54:36.738Z"}
+info: POST /reset-password/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4Y2VsbGVuY2VqdW1vQGdtYWlsLmNvbSIsImlhdCI6MTY5Njg1NTA2MSwiZXhwIjoxNjk2ODU1MzYxfQ.csHSphxsHxugJiTEYl33FiaXflQfz1WeLMugmXSB8wc {"timestamp":"2023-10-09T12:55:38.875Z"}
+error: Error in /reset-password: TokenExpiredError: jwt expired {"timestamp":"2023-10-09T12:55:38.877Z"}

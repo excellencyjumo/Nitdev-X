@@ -1,2 +1,2 @@
-# projectPhase
-A Nitdev Final Class for Project
+# microprojects
+ Project for Nitdev Participants
